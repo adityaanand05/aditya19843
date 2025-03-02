@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aditya19843
+- 👋 Hi, I’m @adityaanand05
 - 👀 I’m interested in Data Science, AI and ML.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on New Projects
